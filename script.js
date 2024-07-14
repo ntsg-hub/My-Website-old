@@ -1,6 +1,6 @@
 function animateTitle(Title = "Hello, World!", delay = 300) {
     let counter = 0;
-    let direction = true;
+    let direction = 1;
     aniTitle = setInterval(function () {
         if (counter === Title.length || counter === 0) {
             direction = -direction; // Cambia la dirección al llegar al principio o al final

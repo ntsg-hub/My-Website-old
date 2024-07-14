@@ -15,4 +15,4 @@ function animateTitle(Title = "Hello, World!", delay = 300) {
     }, delay)
 }
 
-/* I didn't do it. Thanks to Thomas Weichhart for the help! 🐱 */
+/* I didn't do it. Thanks to Thomas Weichhart for the help! 🐱  https://stackoverflow.com/a/68499694 */
